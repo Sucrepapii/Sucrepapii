@@ -8,6 +8,7 @@ I am transitioning into frontend development from a background in graphic design
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [akinboroo@gmail.com](mailto:akinboroo@gmail.com)
+* 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Interesting Projects
 
 <a href="https://www.x.com/sucre_papii" target="_blank" rel="noreferrer"><img
