@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Graphic Designer
 ----------------------------------
 
-I am transitioning into frontend development from a background in graphic design which gives me a unique advantage in crafting engaging and user-friendly interfaces for websites and applications.
+I am transitioning into project manager from a background in business development which gives me a unique advantage in crafting a team to build the Next Generation Applications
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [akinboroo@gmail.com](mailto:akinboroo@gmail.com)
 * 🧠  I'm learning React
-* 🤝  I'm open to collaborating on Web Applications
+* 🤝  I'm open to collaborating on Web Applications and Mobile Apps
 
 <a href="https://www.x.com/sucre_papii" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/sucre_papii?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=000000"
