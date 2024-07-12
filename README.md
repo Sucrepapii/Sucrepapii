@@ -1,10 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Samuel Akinboro (Sucrepapii)
 ====================================================================================================================================================
 
-Web Developer and Graphic Designer
+Business Developer,Web Developer & Graphic Designer
 ----------------------------------
-
-I am transitioning into project manager from a background in business development which gives me a unique advantage in crafting a team to build the Next Generation Applications
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [akinboroo@gmail.com](mailto:akinboroo@gmail.com)
